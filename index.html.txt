@@ -12,7 +12,7 @@
     <u><h2>Personal Details:</h2></u>
     
     <h3>DOB: 08 aug 2000</h3>
-    <a href="name Dhanasekar310618105010@gmail.com"target=" "><p id="email">dhanasekar442000@gmail.com@gmail.com</p></a>
+    <a href="name Dhanasekar310618105010@gmail.com"target=" "><p id="email">dhanasekar442000@gmail.com</p></a>
     <p id="contact">9791860686</p>
 
     <u><h2>Acadamic Details:</h2></u>
